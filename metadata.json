@@ -1,0 +1,8 @@
+{
+  "name": "SISTEMA FÊNIX WORLD",
+  "description": "SISTEMA FÊNIX WORLD — Plataforma oficial de gestão comercial, orçamentos, produtos e esteira de vendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
